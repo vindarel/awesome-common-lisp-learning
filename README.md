@@ -42,7 +42,6 @@ You can run a Lisp implementation directly, but an editing environment makes the
   - [Lispworks Personal Edition](http://www.lispworks.com/downloads/) - A non-Emacs based IDE for LispWorks Lisp, with some restrictions.
   - [Allegro Common Lisp](https://franz.com/products/allegrocl/) - Has a free [Express Edition](https://franz.com/downloads/clp/survey) IDE, and [training videos on YouTube](https://www.youtube.com/channel/UCN36UrxtyNBJPaG0kmBJNRw).
 - For advanced users
-  - [Articulate Common Lisp](http://articulate-lisp.com) - A HOWTO for putting together a Lisp environment, and has information on [useful libraries](http://articulate-lisp.com/project/abcs.html) and how to [structure projects](http://articulate-lisp.com/project/new-project.html).
   - If you're an experienced [Emacs](https://www.gnu.org/software/emacs/) user, you can just install [SLIME](https://common-lisp.net/project/slime/) and a [supported Common Lisp implementation](https://common-lisp.net/project/slime/doc/html/Platforms.html#Platforms). See the [SLIME manual](https://common-lisp.net/project/slime/doc/html/) for more details.
   - The Common Lisp Cookbook has more information about [installing an implementation](https://lispcookbook.github.io/cl-cookbook/getting-started.html) using an implementation manager like [Roswell](https://github.com/roswell/roswell/wiki), or on Docker.
 
@@ -103,7 +102,6 @@ These aren't libraries, but can help you find and install other libraries.
 - [Quicklisp](https://www.quicklisp.org/beta) - A package management platform for Lisp libraries.
 - [Quickdocs](http://quickdocs.org) - Documentation for projects in Quicklisp.
 - [State of the Common Lisp Ecosystem, 2015](http://borretti.me/article/common-lisp-sotu-2015) - Article about what libraries you should use, and why.
-- [Articulate Common Lisp](http://articulate-lisp.com/project/abcs.html) - Lists some useful libraries.
 
 
 ## Common Lisp Implementations

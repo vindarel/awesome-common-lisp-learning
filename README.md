@@ -38,7 +38,6 @@ Contributions are welcome. Please read the [contribution guidelines](contributin
 You can run a Lisp implementation directly, but an editing environment makes the experience easier.
 - Prepackaged environments
   - [Portacle](https://shinmera.github.io/portacle/) - A portable and multiplatform Common Lisp environment. It ships a slightly customized Emacs with SLIME, SBCL (a popular Common Lisp implementation), Quicklisp and Git. No installation needed, so it's a very quick and easy way to get going.
-  - [Lispbox](https://common-lisp.net/project/lispbox/) - An IDE (Emacs + SLIME), Common Lisp implementation (Clozure Common Lisp) and library manager (Quicklisp), pre-packaged as archives for Windows, macOS and Linux. Descendant of "Lisp in a Box" [mentioned](http://www.gigamonkeys.com/book/lather-rinse-repeat-a-tour-of-the-repl.html) in Practical Common Lisp.
   - [Lispworks Personal Edition](http://www.lispworks.com/downloads/) - A non-Emacs based IDE for LispWorks Lisp, with some restrictions.
   - [Allegro Common Lisp](https://franz.com/products/allegrocl/) - Has a free [Express Edition](https://franz.com/downloads/clp/survey) IDE, and [training videos on YouTube](https://www.youtube.com/channel/UCN36UrxtyNBJPaG0kmBJNRw).
 - For advanced users

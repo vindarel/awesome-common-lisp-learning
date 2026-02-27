@@ -108,8 +108,11 @@ These are books that you'll have to buy, or borrow from a library.
 ## Library Management
 These aren't libraries, but can help you find and install other libraries.
 - [Quicklisp](https://www.quicklisp.org/beta) - A package management platform for Lisp libraries.
+* [ocicl](https://github.com/ocicl/ocicl) - A new take on dependency management with novel features:
+  * project-local dependencies, code linting, project scaffolding, LLM-generated summaries of changes between package versions
+  * securely distributed packages over TLS, all software packaged as OCI-compliant artifacts, and more.
 - [Quickdocs](http://quickdocs.org) - Documentation for projects in Quicklisp.
-- [State of the Common Lisp Ecosystem, 2015](http://borretti.me/article/common-lisp-sotu-2015) - Article about what libraries you should use, and why.
+- [These Years in Common Lisp: 2023-2024 in review](https://lisp-journey.gitlab.io/blog/these-years-in-common-lisp-2023-2024-in-review/), [2022](https://lisp-journey.gitlab.io/blog/these-years-in-common-lisp-2022-in-review/), [State of the ecosystem, 2020](https://lisp-journey.gitlab.io/blog/state-of-the-common-lisp-ecosystem-2020/), [State of the Common Lisp Ecosystem, 2015](http://borretti.me/article/common-lisp-sotu-2015) - Articles about what libraries you should use, and why.
 
 
 ## Common Lisp Implementations

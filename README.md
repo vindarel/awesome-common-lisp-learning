@@ -18,6 +18,7 @@ Contributions are welcome. Please read the [contribution guidelines](contributin
 - [How To Use](#how-to-use)
 - [Lisp Environments](#lisp-environments)
 - [Online References](#online-references)
+- [Online Courses](#online-courses)
 - [Online Books](#online-books)
 - [Offline Books](#offline-books)
 - [Online Community](#online-community)
@@ -65,6 +66,10 @@ You can run a Lisp implementation directly, but an editing environment makes the
   - [Stack Overflow on CLtL2](https://stackoverflow.com/questions/108537/what-are-the-main-differences-between-cltl2-and-ansi-cl) - Some recommend using CLtL2 for insight and inspiration, but to use the CLHS when programming.
   - [A list of differences between CLtL2 and the ANSI Common Lisp specification.](http://linuxfinances.info/info/commonlisp.html#AEN9679)
   - [Chapter 28](https://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node260.html#SECTION003200000000000000000) - Covers the Common Lisp Object System.
+
+## Online courses
+- [Common Lisp programming: learn lisp efficiently](https://www.udemy.com/course/common-lisp-programming/?referralCode=2F3D698BBC4326F94358) is an online course on Udemy (paywall, free extracts), with 9+ hours of content, covering a wide range of essential topics (getting started, data structures, variables, functions, conditionals, iteration, CLOS, macros…). It was created by the Cookbook's main contributor. [More info and coupons](https://github.com/vindarel/common-lisp-course-in-videos/).
+- [Full course for Beginners](https://www.youtube.com/watch?v=cKK-Y1-jAHM) on FreeCodeCamp's Youtube channel. 3 hours of content.
 
 ## Online Books
 These books that are freely accessible online, arranged roughly in order from basic to advanced:

@@ -36,8 +36,17 @@ Contributions are welcome. Please read the [contribution guidelines](contributin
 
 ## Lisp Environments
 You can run a Lisp implementation directly, but an editing environment makes the experience easier.
+- better REPL
+  - [ICL](https://github.com/atgreen/icl), Interactive Common Lisp, is
+    an enhanced REPL for the terminal and the browser. It works with any
+    implementation you have on your system. It brings a *lot* of nice
+    features.
 - Prepackaged environments
   - [Portacle](https://shinmera.github.io/portacle/) - A portable and multiplatform Common Lisp environment. It ships a slightly customized Emacs with SLIME, SBCL (a popular Common Lisp implementation), Quicklisp and Git. No installation needed, so it's a very quick and easy way to get going.
+  - on Windows, see [plain-common-lisp](https://github.com/pascalcombier/plain-common-lisp/),
+    a crafted, easy-to-install Common Lisp environment. It ships Emacs, SBCL, Slime, Quicklisp.
+  - for the Pulsar (ex Atom) editor, use [SLIMA](https://github.com/neil-lindquist/slima).
+  - to discover what is available for VSCode, the Intellij suite, Zed or again Sublime Text, see the [Common Lisp Cookbook: editors support](https://lispcookbook.github.io/cl-cookbook/editor-support.html).
   - [Lispworks Personal Edition](http://www.lispworks.com/downloads/) - A non-Emacs based IDE for LispWorks Lisp, with some restrictions.
   - [Allegro Common Lisp](https://franz.com/products/allegrocl/) - Has a free [Express Edition](https://franz.com/downloads/clp/survey) IDE, and [training videos on YouTube](https://www.youtube.com/channel/UCN36UrxtyNBJPaG0kmBJNRw).
 - For advanced users
